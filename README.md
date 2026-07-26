@@ -53,12 +53,7 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshysCoffee&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshysCoffee&theme=radical" alt="Racha de GitHub" width="48%">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshysCoffee&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%">
 </p>
 
 ---
